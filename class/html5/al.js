@@ -1,1 +1,0 @@
-alert("kuch nhi milega")

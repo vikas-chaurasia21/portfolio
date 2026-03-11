@@ -1,1 +1,0 @@
-alert("table of students..")
